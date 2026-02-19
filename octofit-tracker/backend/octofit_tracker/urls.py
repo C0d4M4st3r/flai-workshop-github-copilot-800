@@ -1,5 +1,7 @@
 """octofit_tracker URL Configuration
 
+Configured for GitHub Codespaces with URLs like: {codespace_name}-8000.app.github.dev
+
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/4.1/topics/http/urls/
 Examples:

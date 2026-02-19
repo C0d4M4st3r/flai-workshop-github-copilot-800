@@ -27,6 +27,7 @@ SECRET_KEY = 'django-insecure-y9g5v4$*ob7p8-q)l70id#9jisdgm=adbrc6v2va)cxj2&@qjk
 DEBUG = True
 
 # Configure ALLOWED_HOSTS for Codespace
+# Example codespace URL format: {codespace_name}-8000.app.github.dev
 ALLOWED_HOSTS = ['localhost', '127.0.0.1']
 
 # Add codespace URL if running in GitHub Codespaces
