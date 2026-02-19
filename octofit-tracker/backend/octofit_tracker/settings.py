@@ -168,6 +168,7 @@ CORS_ALLOW_HEADERS = [
 ]
 
 # CSRF trusted origins for Codespace
+#test
 CSRF_TRUSTED_ORIGINS = ['http://localhost:8000', 'http://127.0.0.1:8000']
 
 if os.environ.get('CODESPACE_NAME'):
